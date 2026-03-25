@@ -58,7 +58,8 @@ Place and connect the following components:
   - FWHM width of optical spectra  
 
 ---
-
+# Block diagram
+![output](a2.png)
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
 
